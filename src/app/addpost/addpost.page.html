@@ -1,0 +1,60 @@
+<ion-content [fullscreen]="true">
+  <script src="https://cdn.tiny.cloud/1/7wz1h513tb8rw57mg45vketrer38jgxpnujil1awxmifdh0m/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+  <ion-refresher slot="fixed" (ionRefresh)="handleRefresh($event)">
+		<ion-refresher-content pullingIcon="chevron-down-circle-outline" refreshingSpinner="circles">
+		</ion-refresher-content>
+	</ion-refresher>
+  <ion-header class="ion-no-border" >
+		<ion-toolbar>
+			<ion-buttons slot="start">
+        <ion-icon name="arrow-back-outline" size="large" (click)="back()"></ion-icon>
+  
+      </ion-buttons>
+		</ion-toolbar>
+
+		
+
+	</ion-header>
+  <div class="card">
+    <div class="card-content">
+    <div class="bottom">
+      <h2>Add Post</h2>
+    </div>
+    </div>
+  </div>
+  <div class="main">
+
+  <div>
+    <p style="color: black;font-size: 21px;">Create Post</p>
+
+  </div>
+  <div class="formBody">
+    <ion-item>
+      <ion-label position="floating">Title</ion-label>
+      <ion-input type="text" placeholder="Title" [(ngModel)]="post.title"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">Tag</ion-label>
+      <ion-input type="text" placeholder="tag" [(ngModel)]="post.tag"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">Description</ion-label>
+      <ion-textarea type="text" rows="10" placeholder="Description" [(ngModel)]="post.description"></ion-textarea>
+      <!-- <textarea id="summernote"></textarea> -->
+
+
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">Date</ion-label>
+      <p>{{ today | date:'dd/MM/yyyy'}}</p>
+    </ion-item>
+  
+  </div>
+  <div>
+    <ion-button (click)="submitpost()">Submit</ion-button>
+  </div>
+</div>
+</ion-content>

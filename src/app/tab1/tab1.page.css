@@ -1,0 +1,120 @@
+ion-header ion-toolbar, ion-header ion-item {
+  --background: #f1f5f8;
+  background: #f1f5f8;
+  padding: 0 10px;
+}
+
+ion-header ion-toolbar .bordered {
+  --border-radius: 10px;
+  --box-shadow: 5px 5px 10px #d1d1d1, -5px -5px 10px #FFFFFF;
+}
+
+ion-header ion-item h3 {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+ion-header ion-item p {
+  font-weight: 500;
+  font-size: 14px;
+}
+
+ion-header ion-item ion-avatar {
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+  margin-top: 0%;
+}
+
+ion-content {
+  --background: linear-gradient(90deg, rgba(43,90,148,1) 0%, rgba(45,112,229,1) 35%, rgba(45,112,229,1) 100%);
+}
+
+ion-content .slides {
+  background: #f1f5f8;
+  padding: 4px 10px 20px 10px;
+  border-radius: 0 0 28px 28px;
+}
+
+ion-content .infocards:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+ion-content .infocard img {
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  max-height: 120px;
+}
+
+ion-content ion-card {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-radius: 14px;
+  padding: 14px;
+  background: rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+          box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+ion-content ion-card .main {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  background: #FFFFFF;
+  -webkit-box-shadow: 7px 7px 20px #dbdfe2,  -7px -7px 20px #ffffff;
+          box-shadow: 7px 7px 20px #dbdfe2,  -7px -7px 20px #ffffff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+ion-content ion-card .main img {
+  width: 50px;
+}
+
+ion-content ion-card .files {
+  padding-top: 14px;
+}
+
+ion-content .container {
+  padding: 6px 20px;
+  color: #FFFFFF;
+}
+
+ion-content .container ion-item {
+  --background: rgba(255,255,255,.1);
+  padding: 0;
+  margin: 14px 0;
+  --border-radius: 14px;
+  color: #FFFFFF;
+  font-weight: 600;
+}
+
+ion-content .container ion-item ion-label {
+  padding: 6px 0;
+}
+
+ion-content .container ion-item ion-label h4 {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+ion-content .container ion-item ion-label h6 {
+  color: rgba(255, 255, 255, 0.66);
+}
+
+ion-content .container h2 {
+  padding-bottom: 0px;
+}
+/*# sourceMappingURL=tab1.page.css.map */

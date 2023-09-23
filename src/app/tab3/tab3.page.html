@@ -1,0 +1,137 @@
+<ion-content>
+  <ion-refresher slot="fixed" (ionRefresh)="handleRefresh($event)">
+    <ion-refresher-content pullingIcon="chevron-down-circle-outline" refreshingSpinner="circles">
+    </ion-refresher-content>
+  </ion-refresher>
+  <ion-header class="ion-no-border">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-button>
+          <ion-icon name="language-outline" size="large"></ion-icon>
+          <ion-select interface="popover" [(ngModel)]='language' (ionChange)='languageChange()'>
+            <ion-select-option value='mr'>मराठी</ion-select-option>
+            <ion-select-option value='en'>English</ion-select-option>
+          </ion-select>
+        </ion-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+  
+  <div *ngIf="!loading" >
+    <div class="card-bg">
+      <img class="bg-img" src="../../assets/weather2.jpg" alt="crop" />
+
+    </div>
+    <div style="text-align: center; margin: 15px;">
+      <ion-searchbar  [(ngModel)]="cityname" (ngModelChange)="loadData()"
+        placeholder="{{'tab3.searchtxt' | translate }}"></ion-searchbar>
+        <ion-button (click)="checkGPSPermission()" fill="outline" style="color: black;"><ion-icon name="navigate-outline"></ion-icon>
+      </ion-button>
+    </div>
+    <div class='box'>
+      <div class='wave -one'></div>
+      <div class='wave -two'></div>
+      <div class='wave -three'></div>
+      <div class="weathercon" style="position: absolute;
+      height: 130px;
+      width: 130px;"><img src="{{icon}}"></div>
+      <div class="info">
+        <h2 class="location">{{cityname2}}</h2>
+        <p class="date" style="font-size: 92%;">{{region}},{{country}}</p>
+        <p>{{address}}</p>
+        <p class="date" style="font-size: 92%;">{{localtime | date: "EEE, MMM d, y h:mm a"}}</p>
+        <h1 class="temp">{{weatherTemp?.current.feelslike_c}}&deg;C | {{weatherTemp?.current.feelslike_f}} &deg;F</h1>
+      </div>
+      <div class="info2">
+        <p class="date"><img class="smallicon" style="margin-left: 1%;" src="../../assets/sunrise.png">{{'tab3.sunrise'
+          | translate }} :{{day1.astro.sunrise}}</p>
+        <p class="date"><img class="smallicon" style="margin-left: 1%;" src="../../assets/sunset.png">{{'tab3.sunset' |
+          translate }} :{{day1.astro.sunset}}</p>
+
+      </div>
+      <div class="info3">
+        <p class="date" style="margin-left:-4%"><img class="smallicon" style="left: 27%;"
+            src="../../assets/humidity.png">{{'tab3.humid' | translate }} :{{weatherTemp?.current.humidity}}%</p>
+        <p class="date" style="margin-left:0%"><img class="smallicon" style="left: 27%;"
+            src="../../assets/wind.png">{{'tab3.speed' | translate }} :{{weatherTemp?.current.gust_kph}} km/hr</p>
+
+      </div>
+    </div>
+
+    <div style="text-align: center;justify-content: center;display: flex;">
+      <img src="../../assets/forecast.png" style="
+    position: absolute;
+    height: 100px;
+    margin-top: 6%;
+    align-content: center;">
+    </div>
+    <div class="slides ion-margin-bottom" style="
+    align-items: center;
+    justify-content: center;
+    top: 33%;
+    left: 0%;
+    width: 100%;
+    position: absolute;
+    background: transparent;">
+      <ion-slides [options]="slidesOptions">
+        <ion-slide *ngFor="let row of forecast">
+          <ion-card style="width: 400px;height: 175px;">
+            <ion-card-header>
+              <p style="color: black;
+              font-size: 18px;
+              top: -5%;
+              position: absolute;
+              left: 35%;">{{row?.date_epoch * 1000 | date:"MMM d, y"}}</p>
+              <div class="main">
+                <img src="http:{{row?.day.condition.icon}}" style="position: absolute;
+                align-items: center;
+                justify-content: center;
+                display: flex;
+                left: 40%;
+                top: 35%;">
+              </div>
+            </ion-card-header>
+            <ion-card-content class="ion-text-justify">
+              <ion-card-title class="ion-margin-bottom"></ion-card-title>
+              <p style="position: absolute;
+                bottom: 26%;
+                color: black;
+                top: -69%;">
+                {{'tab3.max' | translate }}: {{row?.day.maxtemp_c}}&deg;C<br>
+                {{'tab3.min' | translate }}: {{row?.day.mintemp_c}}&deg;C</p>
+              <p style="position: absolute;
+                bottom: 26%;
+                color: black;
+                top: -69%;
+                left:56%;">
+                {{'tab3.rain' | translate }}: {{row?.day.daily_chance_of_rain}}%<br>
+                {{'tab3.pre' | translate }}: {{row?.day.totalprecip_mm}} mm</p>
+
+            </ion-card-content>
+          </ion-card>
+        </ion-slide>
+      </ion-slides>
+    </div>
+  </div>
+
+  <div *ngIf="loading">
+    
+    <div class="card">
+			<div class="card-content">
+			  <div class="bottom">
+				<h2>{{'tab3.tabName' | translate}}</h2>
+			  </div>
+			</div>
+			<div class="card-bg">
+			  <img class="bg-img" src="../../assets/weather.jpg" alt="crop" />
+			</div>
+		  </div>
+      <div style="text-align: center; margin: 15px;">
+        <ion-searchbar  [(ngModel)]="cityname" (ngModelChange)="loadData()"
+          placeholder="{{'tab3.searchtxt' | translate }}"></ion-searchbar>
+          <ion-button (click)="checkGPSPermission()" fill="outline" style="color: black;"><ion-icon name="navigate-outline"></ion-icon>
+        </ion-button>
+      </div>
+
+  </div>
+</ion-content>

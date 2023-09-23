@@ -1,0 +1,1169 @@
+{
+  "Sheet1": [
+    {
+      "serial_no": 1,
+      "dealer_name": "ADITYA ENTERPRISES, SOLAPUR",
+      "Address": "C.S.NO.262, VIVEKAND NAGAR, MAJREWADI,"
+    },
+    {
+      "serial_no": 2,
+      "dealer_name": "AGRIMART SEEDS AND FERTILISERS",
+      "Address": "414 NORTH KASBA BUDHWAR PETH MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 3,
+      "dealer_name": "AGRO VISION CORPORATION",
+      "Address": "GALA NO 3 NAVALAKH APPARTMENT WEST MANGALWAR PETH NEAR BAL GANPATI BUDHLE GALLI NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 4,
+      "dealer_name": "AJAY AGRO CENTRE",
+      "Address": "C.S.NO.10411, EAST MANGALWAR PETH"
+    },
+    {
+      "serial_no": 5,
+      "dealer_name": "ALFA ENTERPRISES",
+      "Address": "H NO 28 NORTH SOLAPUR DIST SOLAPUR"
+    },
+    {
+      "serial_no": 6,
+      "dealer_name": "ANKUR KRUSHI KENDRA",
+      "Address": "GPH NO.270/2A"
+    },
+    {
+      "serial_no": 7,
+      "dealer_name": "ARCHANA KRISHI BHANDAR",
+      "Address": "23/2A, KALYANI GODOWN, NEW HYDERABAD NAKA"
+    },
+    {
+      "serial_no": 8,
+      "dealer_name": "ARCHANA KRISHI BHANDAR",
+      "Address": "S.NO.23/2A, KALYANI GODOWN, HYDERABAD ROAD"
+    },
+    {
+      "serial_no": 9,
+      "dealer_name": "BALAJI KRISHI KENDRA",
+      "Address": "GPH NO.255,NANNAJ"
+    },
+    {
+      "serial_no": 10,
+      "dealer_name": "BALIRAJA KRUSHI SEVA",
+      "Address": "1504/2 NEAR WADALA ST STAND"
+    },
+    {
+      "serial_no": 11,
+      "dealer_name": "BASAVESHWAR KRUSHI KENDRA",
+      "Address": "CS NO 112 KUMBHAR VES MANGALWAR PETH SOLAPUR"
+    },
+    {
+      "serial_no": 12,
+      "dealer_name": "BASWESHWAR KRISHI KENDRA",
+      "Address": "CS NO 1470/A1/A BALIVES H NO 626 SOLAPUR TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 13,
+      "dealer_name": "BHARAT KRISHI KENDRA",
+      "Address": "BLOCK E, SHOP NO 14 PLOT NO 97 SIDDHESHWAR BAZAR PETH HYDRABAD ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 14,
+      "dealer_name": "BHARAT KRISHI KENDRA",
+      "Address": "BLOCK E, SHOP NO 14 PLOT NO 97 SIDDHESHWAR BAZAR PETH HYDRABAD ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 15,
+      "dealer_name": "BHOSALE ENTERPRISES",
+      "Address": "GPH MILKAT NO 47 AT PADSALI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 16,
+      "dealer_name": "BIRUDEO KRISHI BHANDAR",
+      "Address": "GPH,NO.128/1"
+    },
+    {
+      "serial_no": 17,
+      "dealer_name": "BRAMHASUMITRA KRISHI KENDRA",
+      "Address": "GPH NO.307"
+    },
+    {
+      "serial_no": 18,
+      "dealer_name": "CRYSTAL NATURE FERTILISERS PRIVATE LIMITED",
+      "Address": "GAT NO.168/3B"
+    },
+    {
+      "serial_no": 19,
+      "dealer_name": "CRYSTAL NATURE FERTILISERS PRIVATE LIMITED",
+      "Address": "GAT NO.168/3B"
+    },
+    {
+      "serial_no": 20,
+      "dealer_name": "DAKSHIN SOLAPUR TALUKA BAGAYATDAR BHAJIPALA AND BI",
+      "Address": "GALA NO.25, KUMBHAR VES, SHOPPING CENTRE, BHAVANI PETH"
+    },
+    {
+      "serial_no": 21,
+      "dealer_name": "DAKSHIN SOLAPUR TALUKA BAGAYATDAR BHAJIPALA AND BI",
+      "Address": "GALA NO.25, KUMBHAR VES, SHOPPING CENTRE, BHAVANI PETH"
+    },
+    {
+      "serial_no": 22,
+      "dealer_name": "DATTA KRISHI KENDRA",
+      "Address": "GPH NO 868/2"
+    },
+    {
+      "serial_no": 23,
+      "dealer_name": "DEVKI AGRO AGENCY",
+      "Address": "SHRI MRUTANJYA SHOPPING COMPLEX, 3/4, BHAVANI PETH, KUMBHAR VES, SOLAPUR"
+    },
+    {
+      "serial_no": 24,
+      "dealer_name": "DHANESHWARI KRUSHI SEVA KENDRA",
+      "Address": "GPH MILKAT NO 40 KAVTHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 25,
+      "dealer_name": "DHANLAXMI MAHILA BACHAT GAT",
+      "Address": "GPH NO.350,NAROTWADI"
+    },
+    {
+      "serial_no": 26,
+      "dealer_name": "DHEKALE AGRO CENTRE",
+      "Address": "GPH.NO.1371 GAT.NO.226/1/A, PLOT NO.2A, NANNAJ, TAL.NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 27,
+      "dealer_name": "DHEKALE AGRO CENTRE",
+      "Address": "GPH.NO.1371,GAT NO.226/1/A,PLOT NO.2 A NANNAJ"
+    },
+    {
+      "serial_no": 28,
+      "dealer_name": "DHEKALE ENTERPRISES",
+      "Address": "167, MEHTA TOWER, PANJRAOL CHWOK"
+    },
+    {
+      "serial_no": 29,
+      "dealer_name": "DHEKALE ENTERPRISES",
+      "Address": "167, MEHTA TOWER, SHOP NO.18, PANJARAPOL CHOWK"
+    },
+    {
+      "serial_no": 30,
+      "dealer_name": "GURUKRUPA KRISHI KENDRA",
+      "Address": "GPH NO.625,DARFAL (BIB) I"
+    },
+    {
+      "serial_no": 31,
+      "dealer_name": "JAI BHAVANI SEEDS",
+      "Address": "GPH NO.396"
+    },
+    {
+      "serial_no": 32,
+      "dealer_name": "JANLAXMI KRISHI KENDRA",
+      "Address": "GAT NO.348/3 KONDI"
+    },
+    {
+      "serial_no": 33,
+      "dealer_name": "JANSEVA KRISHI KENRDA",
+      "Address": "SIDDHESHWAR SHOPPING CENTRE GALA NO B 15 MARKET YARD SOLAPUR"
+    },
+    {
+      "serial_no": 34,
+      "dealer_name": "JAY BHAVANI AGRO",
+      "Address": "C.S.NO.9284, H.NO.257, JODBHAVI PETH"
+    },
+    {
+      "serial_no": 35,
+      "dealer_name": "JAYDEEP KRISHI KENDRA",
+      "Address": "RASHTRASANT TUKDOJI MAHARAJ VYAPARI SANKUL GALA NO.2 KALMAN"
+    },
+    {
+      "serial_no": 36,
+      "dealer_name": "JAYDEEP KRUSHI KENDRA",
+      "Address": "TUKDOJI MAHARAJ COMPLEX,GALA NO 2 ,KALMAN"
+    },
+    {
+      "serial_no": 37,
+      "dealer_name": "JAYSHRI AGRO SERVICES",
+      "Address": "H NO 71 AT KAVATHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 38,
+      "dealer_name": "JOGESHWARI KRISHI KENDRA",
+      "Address": "C.S.NO.876A, 26 NORTH KASBA"
+    },
+    {
+      "serial_no": 39,
+      "dealer_name": "JOGESHWARI KRISHI KENDRA",
+      "Address": "C.S.NO.876A,M.G.ROAD,26 ,NORTH KASBA"
+    },
+    {
+      "serial_no": 40,
+      "dealer_name": "K A KRUSHI KENDRA",
+      "Address": "GAT NO 195/1/4/B PLOT NO 50 GULVANCHI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 41,
+      "dealer_name": "KAI PARSHURAM KRISHI SEVA KENDRA",
+      "Address": "GPH NO.371/1"
+    },
+    {
+      "serial_no": 42,
+      "dealer_name": "KALMAN AGRO PRODUCER COMPANY LTD",
+      "Address": "GAT NO 237/2 KALMAN TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 43,
+      "dealer_name": "KALMAN AGRO PRODUCER COMPANY LTD",
+      "Address": "GAT NO 237/2 KALMAN TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 44,
+      "dealer_name": "KHANDOBA KHAT VIKRI DUKAN",
+      "Address": "38 B, MAHALAXMI SOCIETY, AT POST SHELGI"
+    },
+    {
+      "serial_no": 45,
+      "dealer_name": "KISAN AGRO AGENCY",
+      "Address": "390 WEST SIDE GALA NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 46,
+      "dealer_name": "KISAN AGRO AGENCY",
+      "Address": "390 WEST SIDE GALA NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 47,
+      "dealer_name": "KRUSHAN AGRO AGENCIES",
+      "Address": "SHOP NO.7, CROSS ROAD BUILDING, COMMERCIAL COMPLEX, OLD PUNA NAKA"
+    },
+    {
+      "serial_no": 48,
+      "dealer_name": "KRUSHI SAMRUDDHI",
+      "Address": "25,KUMBHARVES SHOPPING CENTRE, BHAVANI PETH"
+    },
+    {
+      "serial_no": 49,
+      "dealer_name": "KRUSHI SAMRUDDHI",
+      "Address": "25,KUMBHARVES SHOPPING CENTRE, BHAVANI PETH"
+    },
+    {
+      "serial_no": 50,
+      "dealer_name": "KRUSHI SAMRUDDHI AGROTECH PVT.LTD",
+      "Address": "1289,BHADRAWATI PETH"
+    },
+    {
+      "serial_no": 51,
+      "dealer_name": "KRUSHI SAMRUDHI AGRO TECH",
+      "Address": "26 GULMOHAR KONARK NAGAR"
+    },
+    {
+      "serial_no": 52,
+      "dealer_name": "KRUSHI UTPANNA BAZAR SAMITI",
+      "Address": "MARKET YARD MAIN OFFICE 9696A/F/P/7A PBN 4 SOLAPUR"
+    },
+    {
+      "serial_no": 53,
+      "dealer_name": "KRUSHIDHAN KRISHI KENDRA",
+      "Address": "MUNCIPLA NO.87/1A, C.S.NO.8822/5, M.G.ROAD, OPP.D.C.C.BANK SOLAPUR"
+    },
+    {
+      "serial_no": 54,
+      "dealer_name": "LAXMI AGRO SERVICES",
+      "Address": "GPH.NP.907,NANNAJ"
+    },
+    {
+      "serial_no": 55,
+      "dealer_name": "LOKMANGAL AGRO INDUSTRIES LTD",
+      "Address": "GAT NO.517/1A,DARFUL"
+    },
+    {
+      "serial_no": 56,
+      "dealer_name": "LOKMANGAL BIO TECH PVT. LTD.",
+      "Address": "LOKMANGAL HOUSE, 8536-A/11, MURARJI PETH, OLD POONA NAKA, SOLAPUR"
+    },
+    {
+      "serial_no": 57,
+      "dealer_name": "LOKMANGAL BIO-TECH PVT. LTD.",
+      "Address": "LOKMANGAL HOUSE8536-A/11, MURARJI PETH, OLD PUNA NAKA, SOLAPUR"
+    },
+    {
+      "serial_no": 58,
+      "dealer_name": "LOKMANGAL BIO-TECH PVT. LTD.",
+      "Address": "LOKMANGAL HOUSE, 8536-A/11, MURARJI PETH, OLD PUNA NAKA, SOLAPUR - 413 001"
+    },
+    {
+      "serial_no": 59,
+      "dealer_name": "LOKMANGAL MULTISTATE",
+      "Address": "351/A,RAVIVAR PETH SOLAPUR"
+    },
+    {
+      "serial_no": 60,
+      "dealer_name": "LOKMANGAL MULTISTATE CO-OPERATIVE SOCIETY LTD",
+      "Address": "152,RAVIWAR PETH ,SOLAPUR"
+    },
+    {
+      "serial_no": 61,
+      "dealer_name": "LOKMANGAL MULTISTATR CO-OP.SOCIETY LTD",
+      "Address": "152,RAVIVAR PETH SOLAPUR"
+    },
+    {
+      "serial_no": 62,
+      "dealer_name": "MAHALAXMI KRUSHI BHANDAR",
+      "Address": "CS NO 263 GALA NO 15 SHOP NO 14B SWAMI VIVEKANAND NAGAR HATTURE NAGAR HOTGI ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 63,
+      "dealer_name": "MAHARASHTRA AGRICULTURE CONSULTANCY LIMITED",
+      "Address": "JAMGUNGICOMPLEX GURUWAR PETH KOUTAM CHOWK SOLPAUR"
+    },
+    {
+      "serial_no": 64,
+      "dealer_name": "MAHARASHTRA AGRICULTURE CONSULTANCY LIMITED",
+      "Address": "JAMGUNDI COMPLEX GURUWAR PETH KOUTAM CHOWK ,SOLAPUR"
+    },
+    {
+      "serial_no": 65,
+      "dealer_name": "MAHESH KRISHI KENDRA",
+      "Address": "GPH.NP.1122,NANNAJ"
+    },
+    {
+      "serial_no": 66,
+      "dealer_name": "MAHINDRA CROP SCIENCES",
+      "Address": "C/O.SHIVSHAMBHU AGRO SEEDS,9062 JODBHAVI PETH KUMBHAR WEST,SOLAPUR"
+    },
+    {
+      "serial_no": 67,
+      "dealer_name": "MANE AGRICLINIC AND AGRIBUSINESS CENTRE",
+      "Address": "C.S.NO.953/1A, H.NO.119A, NORTH KASBA, M.G.ROAD"
+    },
+    {
+      "serial_no": 68,
+      "dealer_name": "MANE AGRICLINIC AND AGRIBUSINESS CENTRE",
+      "Address": "C.S.NO.953/1A, H.NO.119A, NORTH KASBA, M.G.ROAD"
+    },
+    {
+      "serial_no": 69,
+      "dealer_name": "MANE AGRICLINIC AND AGRIBUSINESS CENTRE",
+      "Address": "C.C.NO.953/1A, H.NO.119A, NORTH KASBA"
+    },
+    {
+      "serial_no": 70,
+      "dealer_name": "MANE AGRICLINIC AND AGRIBUSINESS CENTRE",
+      "Address": "C.S.NO.953/1A H.NO.119A, NORTH KASBA"
+    },
+    {
+      "serial_no": 71,
+      "dealer_name": "MANISHA AGRO SCIENCES",
+      "Address": "152 NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 72,
+      "dealer_name": "MANISHA AGRO SCIENCES",
+      "Address": "152 NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 73,
+      "dealer_name": "MANISHA AGRO SCIENCES",
+      "Address": "152 NORTH KASBA M G ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 74,
+      "dealer_name": "MANISHA AGRO SYNDICATE",
+      "Address": "CS NO 989 A/2A 152 NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 75,
+      "dealer_name": "MANISHA AGRO SYNDICATE",
+      "Address": "CSNO 989 A/2A 152 NORTH KASBA MG ROADSOLAPUR"
+    },
+    {
+      "serial_no": 76,
+      "dealer_name": "MANISHA AGRO SYNDICATE",
+      "Address": "154, NORTH KASBA M.G.ROAD"
+    },
+    {
+      "serial_no": 77,
+      "dealer_name": "MATOSHRI KRUSHI KENDRA",
+      "Address": "GPH MILKAT NO 315"
+    },
+    {
+      "serial_no": 78,
+      "dealer_name": "MAULI KRISHI KENDRA",
+      "Address": "GPH NO 409 GALA NO 3 KARAMBA TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 79,
+      "dealer_name": "MAULI KRISHI KENDRA",
+      "Address": "GPH,NO.409 GALA NO,3"
+    },
+    {
+      "serial_no": 80,
+      "dealer_name": "MAULI KRUSHI KENDRA",
+      "Address": "GPH MILKAT NO 266 KAVTHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 81,
+      "dealer_name": "MOLKERI AGRO AGENCY",
+      "Address": "PLOT NO 57 AT BALE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 82,
+      "dealer_name": "MUNOT AGRI BUSINESS",
+      "Address": "93/1,M.G. ROAD, BUDHWAR PETH"
+    },
+    {
+      "serial_no": 83,
+      "dealer_name": "MUNOT AGRI BUSINESS",
+      "Address": "MUNOT HEIGHTS 93, M.G.ROAD,BUDHWAR PETH"
+    },
+    {
+      "serial_no": 84,
+      "dealer_name": "NAVA BARAT FERTILIZERS LTD",
+      "Address": "PLOT NO.55/2,NEAR GANESH PETROL PUMP SOLAPUR PUNE HIGHWAY"
+    },
+    {
+      "serial_no": 85,
+      "dealer_name": "NAVYUG KRUSHI BHANDAR",
+      "Address": "36/5 JODBHAVI PETH SOLAPUR"
+    },
+    {
+      "serial_no": 86,
+      "dealer_name": "NAVYUG KRUSHI BHANDAR",
+      "Address": "36/5 JODBHAVI PETH SOLAPUR"
+    },
+    {
+      "serial_no": 87,
+      "dealer_name": "NEHA SEEDS & PESTICDES",
+      "Address": "SHOP NO.05,167,MEHTA TOWAR,BUDHWAR PETH"
+    },
+    {
+      "serial_no": 88,
+      "dealer_name": "NEHA SEEDS & PESTICIDES",
+      "Address": "167,BUDHWAR PETH SHOP NO.5 MEHATA TOWAR"
+    },
+    {
+      "serial_no": 89,
+      "dealer_name": "NEHA SEEDS AND PESTICIDES",
+      "Address": "167, BUDHWAR PETH, SHOP NO.5, MEHTA TOWER"
+    },
+    {
+      "serial_no": 90,
+      "dealer_name": "NEW KISAN TRADERS",
+      "Address": "GPH MILKAT NO 909/4A GALA NO 03 NANNAJ TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 91,
+      "dealer_name": "NEW MAULI AGRO SERVICES",
+      "Address": "NEW MAULI AGRO SERVICES A/P WADALA TAL NORTH SOLAPUR DIST SOLAPUR"
+    },
+    {
+      "serial_no": 92,
+      "dealer_name": "NRUSINH KRISHI KENDRA",
+      "Address": "GPH NO.207"
+    },
+    {
+      "serial_no": 93,
+      "dealer_name": "NRUSINH KRISHI KENDRA",
+      "Address": "GPH NO.207, AT POST PAKNI, TAL.NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 94,
+      "dealer_name": "NRUSINH KRISHI KENDRA",
+      "Address": "GPH.207,PAKNI"
+    },
+    {
+      "serial_no": 95,
+      "dealer_name": "PACIFIC AGRO SERVICES",
+      "Address": "GAT NO.19/B/2"
+    },
+    {
+      "serial_no": 96,
+      "dealer_name": "PACIFIC AGRO SERVICES",
+      "Address": "GAT NO.19/B/2"
+    },
+    {
+      "serial_no": 97,
+      "dealer_name": "PADMASHRI AGRO AGENCY",
+      "Address": "SIDDHESHWAR MARKET YARD SHOPPING CENTER GALA NO.C-7 HYD ROAD"
+    },
+    {
+      "serial_no": 98,
+      "dealer_name": "PANCHE AGRO CENTRE",
+      "Address": "135/A JODBHAVI PETH SOLAPUR"
+    },
+    {
+      "serial_no": 99,
+      "dealer_name": "PANCHE AGRO CENTRE",
+      "Address": "135/A JODBHAVI PETH SOLAPUR"
+    },
+    {
+      "serial_no": 100,
+      "dealer_name": "PANDURANG KRUSHI KENDRA",
+      "Address": "GPH NO 693 AT RANMASLE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 101,
+      "dealer_name": "PANDURANG KRUSHI SEVA KENDRA",
+      "Address": "GAT NO 314/2 AT PADSALI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 102,
+      "dealer_name": "PARTIK KRISHI KENDRA",
+      "Address": "GAT,NO.252/2/2B,DARPHAL"
+    },
+    {
+      "serial_no": 103,
+      "dealer_name": "PHATATE UDYOG KENDRA",
+      "Address": "C 21 SHRI SIDDHESHWAR MARKET YARD SHOPPING CENTRE HYDRABAD ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 104,
+      "dealer_name": "PRASAD KRUSHI KENDRA",
+      "Address": "GPH NO 784"
+    },
+    {
+      "serial_no": 105,
+      "dealer_name": "PRATIK AGRO AGENCY",
+      "Address": "SHOP NO 152 NORTH KASBA SOLAPUR"
+    },
+    {
+      "serial_no": 106,
+      "dealer_name": "PRATIK KRUSHI KENDRA",
+      "Address": "GAT NO 252/2 B AT DARFAL GAVDI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 107,
+      "dealer_name": "PRINCE AGRO AGENCY",
+      "Address": "MILKAT NO. 180 AT POST. NANNAJ TAL.NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 108,
+      "dealer_name": "RAHUL KRISHI KENDRA",
+      "Address": "GPH NO.96"
+    },
+    {
+      "serial_no": 109,
+      "dealer_name": "RAJESHWARI KRISHI BHANDAR",
+      "Address": "C.S.NO.104, BUDHWAR PETH, PANJARAPOL CHOWK"
+    },
+    {
+      "serial_no": 110,
+      "dealer_name": "RATHIKARJUN KRUSHI SEVA KENDRA",
+      "Address": "947, NORTH KASBA, BALIVES CHOWK"
+    },
+    {
+      "serial_no": 111,
+      "dealer_name": "RATIKANT KRUSHI KENDRA",
+      "Address": "GPH MILKAT NO 08 AT KAVATHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 112,
+      "dealer_name": "ROHAN KRUSHI KENDRA",
+      "Address": "GPH NO 185 KALMAN TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 113,
+      "dealer_name": "RUKMINI KRUSHI KENDRA",
+      "Address": "GPH NO.172"
+    },
+    {
+      "serial_no": 114,
+      "dealer_name": "RUSHI KRISHI KENDRA",
+      "Address": "G.P.H.NO. 117 B.B.DARFAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 115,
+      "dealer_name": "SADGURU KRISHI KENDRA",
+      "Address": "GPH NO.708/22,WADALA"
+    },
+    {
+      "serial_no": 116,
+      "dealer_name": "SADGURU KRUSHI KENDRA",
+      "Address": "GPH NO 708/23 AT POST WADALA TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 117,
+      "dealer_name": "SAHYADRI SHETI SADAN PURVTHA SANSTHA MARYADIT TIRHE",
+      "Address": "PLOT NO 25 GAT 121/1/A H NO 1579 TIRHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 118,
+      "dealer_name": "SAHYADRI SHETI SADAN PURVTHA SANSTHA MARYADIT TIRHE",
+      "Address": "PLOT NO 25 GAT 121/1/A H NO 1579 TIRHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 119,
+      "dealer_name": "SAHYADRI SHETI SADHAN PURVATHA SAHKARI SANSTHA MAR",
+      "Address": "GPH NO.15/1"
+    },
+    {
+      "serial_no": 120,
+      "dealer_name": "SAHYADRI SHETI SADHAN PURVATHA SAHKARI SANSTHA MAR",
+      "Address": "GPH NO.15/1"
+    },
+    {
+      "serial_no": 121,
+      "dealer_name": "SAI AGRO CORPORATION",
+      "Address": "SHOP NO.07, SHRI SIDDHESHWAR MARKET YARD, SHOPPING COMPLEX, HYDRABAD ROAD"
+    },
+    {
+      "serial_no": 122,
+      "dealer_name": "SAI AGRO CORPORATION",
+      "Address": "SHOP NO.07,SHREE SIDDHESHWAR MARKAT YARD ,SHOPING COMPLEX.HYDRABAD ROAD"
+    },
+    {
+      "serial_no": 123,
+      "dealer_name": "SAI KRISHI SEVA KENDRA",
+      "Address": "GPH,NO.338,KALMAN"
+    },
+    {
+      "serial_no": 124,
+      "dealer_name": "SAISAGAR AGRI INPUTS",
+      "Address": "C.S.NO.9440, H.NO.462/268, JODBHAVI PETH"
+    },
+    {
+      "serial_no": 125,
+      "dealer_name": "SAISAGAR AGRI INPUTS",
+      "Address": "C.S.NO.9440,H.NO.462/268,JODBHAWANI PETH"
+    },
+    {
+      "serial_no": 126,
+      "dealer_name": "SAISAGAR AGRI INPUTS",
+      "Address": "C.S.NO.9440, H.NO.462/268, JODBHAVI PETH"
+    },
+    {
+      "serial_no": 127,
+      "dealer_name": "SAISAGAR AGRI INPUTS",
+      "Address": "C.S.NO.9440, H.NO.462/268,JODBHVI PETH"
+    },
+    {
+      "serial_no": 128,
+      "dealer_name": "SAMARTH KIRISHI KENDRA PAKANI",
+      "Address": "GPH NO 57/B TOWN PAKANI"
+    },
+    {
+      "serial_no": 129,
+      "dealer_name": "SAMARTH KRISHI KENDRA",
+      "Address": "GPH NO.422, AKOLAKATI"
+    },
+    {
+      "serial_no": 130,
+      "dealer_name": "SAMIKSHA AGROAGENCY",
+      "Address": "GPH NO 463 AT PADSALI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 131,
+      "dealer_name": "SAMRUDHI KRUSHI KENDRA",
+      "Address": "SHOPPING CENTRE GALA NO.2"
+    },
+    {
+      "serial_no": 132,
+      "dealer_name": "SANGRAM KRISHI SEVA KENDRA",
+      "Address": "GPH NO.467,PADSALI"
+    },
+    {
+      "serial_no": 133,
+      "dealer_name": "SANGRAM KRUSHI SEVA KENDRA",
+      "Address": "GPH MILKAT NO 467 AT PADSALI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 134,
+      "dealer_name": "SANKET KRUSHI KENDRA",
+      "Address": "GPH MILKAT NOI 1254 MOHITEWADI NANNAJ TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 135,
+      "dealer_name": "SARVESH ENTERPRISES",
+      "Address": "GAT NO 476/1 AT KONDI RAHUDI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 136,
+      "dealer_name": "SATYAJEET ENTERPRISES",
+      "Address": "SHOP NO.7 ASHTHAVINAYAK COMPLEX 118 EAST MANGALWAR PETH KUMBHAR VES SOLAPUR"
+    },
+    {
+      "serial_no": 137,
+      "dealer_name": "SAYALI AGRO SERVICES.",
+      "Address": "NORTH KASBA H NO 46 SOLAPUR"
+    },
+    {
+      "serial_no": 138,
+      "dealer_name": "SHAH AGRO COMPANY",
+      "Address": "14 A MEHTA TOWER PANJRAPOL CHOWK 167 BUDHWAR PETH SOLAPUR"
+    },
+    {
+      "serial_no": 139,
+      "dealer_name": "SHARAD KRISHI KENDRA",
+      "Address": "HOUSE NO.428, AT POST HONSAL"
+    },
+    {
+      "serial_no": 140,
+      "dealer_name": "SHETKARI SEVA KENDRA",
+      "Address": "390 EAST SIDE GALA NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 141,
+      "dealer_name": "SHETKARI SEVA KENDRA",
+      "Address": "390 EAST SIDE GALA NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 142,
+      "dealer_name": "SHIVDARSHAN KRUSHI KENDRA",
+      "Address": "MILKAT NO 1062 AT NANNAJ TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 143,
+      "dealer_name": "SHIVKRUPA KRISHI KENDRA",
+      "Address": "G.P.H NO. 255/2"
+    },
+    {
+      "serial_no": 144,
+      "dealer_name": "SHIVRAJ KRUSHI KENDRA",
+      "Address": "GPH NO 552/2 A AT WADALA TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 145,
+      "dealer_name": "SHIVRATNA KRISHI KENDRA",
+      "Address": "BHARAT SHIKSHAN PRASARAK MANDAL SHOPPING CENTRE GALA NO 15, 16, 17 AT WADALA TALUKA NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 146,
+      "dealer_name": "SHIVRATNA KRISHI KENDRA",
+      "Address": "BHARAT SHIKSHAN PRASARAK MANDAL SHOPING CENTER GALA NO.15,16 WADALA"
+    },
+    {
+      "serial_no": 147,
+      "dealer_name": "SHIVRATNA KRISHI KENDRA",
+      "Address": "BHARAT SHIKSHAN PRASARAK MANDAL SHOPPING CENTRE GALA NO 15,16, 17 WADALA"
+    },
+    {
+      "serial_no": 148,
+      "dealer_name": "SHIVRATNA KRISHI KENDRA",
+      "Address": "BHARAT SHIKSHAN PARSARAK MANDAL GALA NO.15,16 WADALA"
+    },
+    {
+      "serial_no": 149,
+      "dealer_name": "SHIVSHAMBHU AGRO SEEDS",
+      "Address": "AT 9062/A JODBHAVI PETH KUMBHAR VES SOLAPUR"
+    },
+    {
+      "serial_no": 150,
+      "dealer_name": "SHRADHA ENTERPRISES",
+      "Address": "860A 1 UTTAR KASBA, SHIVAJI CHOWK"
+    },
+    {
+      "serial_no": 151,
+      "dealer_name": "SHRADHA ENTERPRISES",
+      "Address": "860A 1 UTTAR KASBA,SHIVAJI CHOWK"
+    },
+    {
+      "serial_no": 152,
+      "dealer_name": "SHRAVNI KRUSHI KENDRA",
+      "Address": "MILKAT NO 435 ATPOST RANMASLE TAL NORTH SOLAPUR DIST SOLAPUR"
+    },
+    {
+      "serial_no": 153,
+      "dealer_name": "SHREE SAMARTH KRUSHI SEVA KENDRA",
+      "Address": "SHREE KRUPA COMPLEX PLOT NO 58/1/11"
+    },
+    {
+      "serial_no": 154,
+      "dealer_name": "SHREE SHARDA TRAADERS",
+      "Address": "GPH NP.28"
+    },
+    {
+      "serial_no": 155,
+      "dealer_name": "SHREE SWAMI SAMARTH KRUSHI KENDRA",
+      "Address": "MILKAT NO.270AT POST.PAKNI,TAL-NORTH SOLAPUR,DIST-SOLAPUR."
+    },
+    {
+      "serial_no": 156,
+      "dealer_name": "SHREYA AGRO AGENCIES",
+      "Address": "SHOP NO.49, MANTRI CHANDAK VIHAR HOTGI ROAD"
+    },
+    {
+      "serial_no": 157,
+      "dealer_name": "SHREYA AGRO AGENCY",
+      "Address": "HOTGI ROAD BUILDING NO 4 GALA NO 46"
+    },
+    {
+      "serial_no": 158,
+      "dealer_name": "SHRI AGRO SERVICE CENTER",
+      "Address": "SHOP NO 24 KUMBHAR VES SHOPPING CENTER SOLAPUR"
+    },
+    {
+      "serial_no": 159,
+      "dealer_name": "SHRI AGRO SERVICE CENTER",
+      "Address": "SHOP NO 24 KUMBHAR VES SHOPPING CENTER SOLAPUR"
+    },
+    {
+      "serial_no": 160,
+      "dealer_name": "SHRI GANESH KRISHI SEVA KENDRA",
+      "Address": "GPH ,NO.162"
+    },
+    {
+      "serial_no": 161,
+      "dealer_name": "SHRI GURU RAJ MAULI KRUSHI KENDRA",
+      "Address": "MILKAT NO 549 GALA NO.2 AT WADALA TAL. NORTH SAOLAPUR"
+    },
+    {
+      "serial_no": 162,
+      "dealer_name": "SHRI GURUDATTA KRISHI KENDRA",
+      "Address": "GAT NO. 477/1 B"
+    },
+    {
+      "serial_no": 163,
+      "dealer_name": "SHRI JOTIBA KRISHI SUVIDHA KENDRA",
+      "Address": "GPH NO.203/2"
+    },
+    {
+      "serial_no": 164,
+      "dealer_name": "SHRI JOTIBA KRISHI SUVIDHA KENDRA",
+      "Address": "GPH NO.203/2 RANMASLE"
+    },
+    {
+      "serial_no": 165,
+      "dealer_name": "SHRI KESHAV KRISHI KENDRA",
+      "Address": "GPH,NO.880,NANNAJ"
+    },
+    {
+      "serial_no": 166,
+      "dealer_name": "SHRI KRUPA KRISHI BHANDAR",
+      "Address": "CS NO 168/1B/1A/2 SHPO NO 4 & 5 ARMAAN COMPLEX AKKALKOT ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 167,
+      "dealer_name": "SHRI MAHALAXMI KRISHI SEVS KENDRA",
+      "Address": "GPH,NO.748,KALMAN"
+    },
+    {
+      "serial_no": 168,
+      "dealer_name": "SHRI MAULI KRISHI SEVA KENDRA",
+      "Address": "GPH NO.309"
+    },
+    {
+      "serial_no": 169,
+      "dealer_name": "SHRI NRUSINH KRISHI SEVA KENDRA",
+      "Address": "GPH NO.208/A/1, PAKANI"
+    },
+    {
+      "serial_no": 170,
+      "dealer_name": "SHRI PANDURANG KRISHI SEVA KENDRA",
+      "Address": "GAT,NO/314/2,PADSALI"
+    },
+    {
+      "serial_no": 171,
+      "dealer_name": "SHRI RAM KRUSHI KENDRA",
+      "Address": "PAP 2 GALA NO 1 PAKNIFATA NEAR BHARAT GAS PLANT, PAKNI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 172,
+      "dealer_name": "SHRI RAMSAMARTH KRISHI KENDRA",
+      "Address": "GPH NO 422 GALA NO 7 KARAMBA TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 173,
+      "dealer_name": "SHRI RAMSAMARTH KRISHI KENDRA",
+      "Address": "GPH,NO.422 GALA NO.7"
+    },
+    {
+      "serial_no": 174,
+      "dealer_name": "SHRI RENUKA KRISHI KENDRA",
+      "Address": "G.P.H.NO.761,NANNAJ"
+    },
+    {
+      "serial_no": 175,
+      "dealer_name": "SHRI RENUKA KRISHI KENDRA",
+      "Address": "GPH NO.761"
+    },
+    {
+      "serial_no": 176,
+      "dealer_name": "SHRI SADGURU KRUSHI SEVA KENDRA",
+      "Address": "MILKAT NO 359 PETH GALLI AT MARDI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 177,
+      "dealer_name": "SHRI SADGURU KRUSHI SEVA KENDRA.",
+      "Address": "GPH NO 1108 BB DARFAL TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 178,
+      "dealer_name": "SHRI SAMARTH KRISHI KENDRA",
+      "Address": "G.P.H.NO.12/1"
+    },
+    {
+      "serial_no": 179,
+      "dealer_name": "SHRI SAMARTH KRISHI KENDRA",
+      "Address": "G.P.H. NO.12/1"
+    },
+    {
+      "serial_no": 180,
+      "dealer_name": "SHRI SAMARTH KRISHI SEVA KENDRA",
+      "Address": "GPH NO.426/4,MARDI"
+    },
+    {
+      "serial_no": 181,
+      "dealer_name": "SHRI SAMARTH KRISHI SEVA KENDRA",
+      "Address": "GPH,NO.183"
+    },
+    {
+      "serial_no": 182,
+      "dealer_name": "SHRI SAMARTH KRUPA ENTERPRISES",
+      "Address": "GPH NO 820 AT KALMAN TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 183,
+      "dealer_name": "SHRI SAMARTH KRUSHI KENDRA",
+      "Address": "MILKAT NO 535 AT AKOLEKATI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 184,
+      "dealer_name": "SHRI SAMARTKRISHI KENDRA",
+      "Address": "GPH,NO.192,NAROTEWADI"
+    },
+    {
+      "serial_no": 185,
+      "dealer_name": "SHRI SAMRTH KRUPA ENTERPRISES",
+      "Address": "GPH,NO820 KALMAN"
+    },
+    {
+      "serial_no": 186,
+      "dealer_name": "SHRI SHIDDHESHWAR KRUSHI KENDRA",
+      "Address": "GAT NO 32/1A BASVESHWAR NAGAR DEGAON TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 187,
+      "dealer_name": "SHRI SHIDDHESHWAR SAHKARI SAKHAR KARKHANA LTD.",
+      "Address": "GAT NO. 21/1 & GAT NO.21/4 KARKHANA SITE KUMATHE POST TIKEKARWADI"
+    },
+    {
+      "serial_no": 188,
+      "dealer_name": "SHRI SIDDHANATH ENTERPRISES",
+      "Address": "MILKAT NO 296"
+    },
+    {
+      "serial_no": 189,
+      "dealer_name": "SHRI SIDDHASAI FERTILIZER AGENCIES",
+      "Address": "C.S.NO.2092B,H.NO.1254,NORTH KASBA"
+    },
+    {
+      "serial_no": 190,
+      "dealer_name": "SHRI SIDDHESHWAR KRISHI KENDRA",
+      "Address": "GAT NO.184/1A,PLOT NO.14"
+    },
+    {
+      "serial_no": 191,
+      "dealer_name": "SHRI SIDDHESHWAR KRISHI SEVA KENDRA",
+      "Address": "MILKAT NO.131,AT POST HAGLUR"
+    },
+    {
+      "serial_no": 192,
+      "dealer_name": "SHRI SIDDHESHWAR SAHKARI GRAHAK BHANDAR LTD KUMTHE",
+      "Address": "GAT NO 21/5 KUMTHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 193,
+      "dealer_name": "SHRI SIDDHWSHWAR KRUSHI KENDRA",
+      "Address": "GPH MILKAT NO 184/1A AT PAKANI TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 194,
+      "dealer_name": "SHRI SWAMI SAMARTH KRISHI KENDRA",
+      "Address": "GPH NO.866, KABAMBA"
+    },
+    {
+      "serial_no": 195,
+      "dealer_name": "SHRI SWAMI SAMARTH KRISHI KENDRA",
+      "Address": "GRAMPANCYAYAT GALA NO.5"
+    },
+    {
+      "serial_no": 196,
+      "dealer_name": "SHRI YEDESHWARI FERTILISERS & AGROCHEMICALS",
+      "Address": "GPH MILKAT NO 353 TIRHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 197,
+      "dealer_name": "SHRIGURU SOMLING KRISHI KENDRA",
+      "Address": "GPH,NO.09"
+    },
+    {
+      "serial_no": 198,
+      "dealer_name": "SHRIRAM KRISHI KENDRA",
+      "Address": "GPH.NO.754 MIDIC ROAD"
+    },
+    {
+      "serial_no": 199,
+      "dealer_name": "SHUBHAM SHETI UPYOGI BAHUUDDHESHIYA VIVIDHA SEVA S",
+      "Address": "GPH NO.368"
+    },
+    {
+      "serial_no": 200,
+      "dealer_name": "SIDDHANATH KRISHI KENDRA",
+      "Address": "GAT NO.1167/1/A/2, THIRE"
+    },
+    {
+      "serial_no": 201,
+      "dealer_name": "SIDDHANATH KRISHI KENDRA",
+      "Address": "GAL NO43/A/B,TIRE"
+    },
+    {
+      "serial_no": 202,
+      "dealer_name": "SIDDHARTH SEEDS AND FERTILIZERS",
+      "Address": "C.S.NO,872/3,H.NO.14"
+    },
+    {
+      "serial_no": 203,
+      "dealer_name": "SIDDHESHWAR KRUSHI BHANDAR",
+      "Address": "CS NO 1266 H.NO.416 NORTH KASBA OPP. TARTI NAKA POLICE CHOWKY SOLAPUR"
+    },
+    {
+      "serial_no": 204,
+      "dealer_name": "SOHAM KRISHI KENDRA",
+      "Address": "GAT NO.104/1,PLOT NO.15/1,SAIFUL ,VIJAPUR ROAD"
+    },
+    {
+      "serial_no": 205,
+      "dealer_name": "SONARSIDDHA KRUSHI KENDRA",
+      "Address": "GPH MILKAT NO 343 AT TIRHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 206,
+      "dealer_name": "SURAJ KRISHI SEVA KENDRA",
+      "Address": "GPH,NO.61"
+    },
+    {
+      "serial_no": 207,
+      "dealer_name": "SUYASH AGRO AGENICES",
+      "Address": "PLOT NO.80, RAMNARARYAN CHANDAK VIHAR SAIFUL"
+    },
+    {
+      "serial_no": 208,
+      "dealer_name": "THE MAHARASHTRA STATE CO OPERATIVE MARKETING FEDERATION LIIMITED",
+      "Address": "SIDDHESHWAR MARKET YARD PLOT NO.8"
+    },
+    {
+      "serial_no": 209,
+      "dealer_name": "TRIMURTI KRISHI KENDRA",
+      "Address": "GPH NO.793, PLOT NO.16,17"
+    },
+    {
+      "serial_no": 210,
+      "dealer_name": "UMESH AGRO ANGENCY",
+      "Address": "GPH,NO.343 TIRHE"
+    },
+    {
+      "serial_no": 211,
+      "dealer_name": "VAIBHAV KRISHI KENDRA",
+      "Address": "M.C. NO. 101/A BUDHWAR PETH M GANDHI ROAD PANJRAPOL SOLAPUR"
+    },
+    {
+      "serial_no": 212,
+      "dealer_name": "VAISHALI KRISHI KENDRA",
+      "Address": "GPH NO.24"
+    },
+    {
+      "serial_no": 213,
+      "dealer_name": "VAISHNAVI KRISHI BHANDAR",
+      "Address": "775 EAST MANGALWAR PETH KUMBHAR VES SOLAPUR"
+    },
+    {
+      "serial_no": 214,
+      "dealer_name": "VARSH AGRO ENGINEERING",
+      "Address": "SHOP NO,2, NATH PLAZA MODIKHANA"
+    },
+    {
+      "serial_no": 215,
+      "dealer_name": "VIJAY KRISHI KENDRA",
+      "Address": "GPH NO.878"
+    },
+    {
+      "serial_no": 216,
+      "dealer_name": "VIJAYA KRISHI SEVA KENDRA",
+      "Address": "GPH NO 484 KALMAN TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 217,
+      "dealer_name": "VIJAYA KRISHI SEVA KENDRA",
+      "Address": "GPH NO.484.KALMAN"
+    },
+    {
+      "serial_no": 218,
+      "dealer_name": "VIPUL KRISHI KENDRA",
+      "Address": "C 4 SHIDDHWSHWAR MARKET YARD SHOPPING CENTRE HYDRABAD ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 219,
+      "dealer_name": "VISHAL KRISHI KENDRA",
+      "Address": "GPH NO 323 AT TIRHE TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 220,
+      "dealer_name": "VISHAL KRISHI KENDRA",
+      "Address": "GPH.NO.323,TIRHE"
+    },
+    {
+      "serial_no": 221,
+      "dealer_name": "VITTHAL KRUSHI KENDRA",
+      "Address": "G.P.H NO-252"
+    },
+    {
+      "serial_no": 222,
+      "dealer_name": "VYANKATESH KRISHI KENDRA",
+      "Address": "H.NO.972/73, NORTH KASBA, BALIVES"
+    },
+    {
+      "serial_no": 223,
+      "dealer_name": "W J S KRISHI KENDRA",
+      "Address": "GAT NO 45/A/2/2B/2 BASVESHWAR NAGAR DEGAON TAL NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 224,
+      "dealer_name": "W J S KRISHI KENDRA",
+      "Address": "GAT NO.45/A/2/2B/2, BASVESHWAR NAGAR DEGONA"
+    },
+    {
+      "serial_no": 225,
+      "dealer_name": "YADAV PATIL AGRO AGENCIES",
+      "Address": "CS NO 876A H NO 26 NORTH KASBA MG ROAD SOLAPUR"
+    },
+    {
+      "serial_no": 226,
+      "dealer_name": "YAH AGRO AGENCIES",
+      "Address": "GAT NO.151"
+    },
+    {
+      "serial_no": 227,
+      "dealer_name": "YASH AGRO AGENCIES",
+      "Address": "GAT NO 158"
+    },
+    {
+      "serial_no": 228,
+      "dealer_name": "YASH CHEMICAL AND FERTILIZER",
+      "Address": "GPH NO.116"
+    },
+    {
+      "serial_no": 229,
+      "dealer_name": "YASHWANT KRISHI KENDRA",
+      "Address": "GPH,NO.47.PADSALI"
+    },
+    {
+      "serial_no": 230,
+      "dealer_name": "YASHWANT KRISHI UDYOG SAMOOH",
+      "Address": "SAMARTH RESIDENCY 53/1/1, GALA NO.3, GROUND FLOOR, BUDHWAR PETH"
+    },
+    {
+      "serial_no": 231,
+      "dealer_name": "YASHWANT KRUSHI KENDRA",
+      "Address": "GP GALA NO.6 AT POST TIRHE TAL.NORTH SOLAPUR"
+    },
+    {
+      "serial_no": 232,
+      "dealer_name": "ZUARI INDUSTRIES LIMITED",
+      "Address": "GAT NO-57,PLOT NO- 29,30 DILIPRAO MANE NAGAR."
+    },
+    {
+      "serial_no": 233,
+      "dealer_name": "ZUARI INDUSTRISED LTD.",
+      "Address": "GAT NO.GPH NO.57 ,PLOT NO.29.30 KONDI"
+    }
+  ]
+}

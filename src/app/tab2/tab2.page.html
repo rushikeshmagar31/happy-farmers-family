@@ -1,0 +1,314 @@
+<ion-content>
+	<ion-refresher slot="fixed" (ionRefresh)="handleRefresh($event)">
+		<ion-refresher-content pullingIcon="chevron-down-circle-outline" refreshingSpinner="circles">
+		</ion-refresher-content>
+	</ion-refresher>
+	<div *ngIf="form">
+	<ion-header class="ion-no-border" >
+		<ion-toolbar>
+			<ion-buttons slot="start">
+				<ion-button>
+					<ion-icon name="language-outline" size="large"></ion-icon>
+					<ion-select interface="popover" [(ngModel)]='language' (ionChange)='languageChange()'>
+						<ion-select-option value='mr'>मराठी</ion-select-option>
+						<ion-select-option value='en'>English</ion-select-option>
+					</ion-select>
+				</ion-button>
+			</ion-buttons>
+		</ion-toolbar>
+
+		
+
+	</ion-header>
+
+		<div class="card">
+		  <div class="card-content">
+			<div class="bottom">
+			  <h2>{{'tab2.tabName1' | translate}}<br>{{'tab2.tabName2' | translate}}</h2>
+			</div>
+		  </div>
+		  <div class="card-bg">
+			<img class="bg-img" src="../../assets/crop.jpg" alt="crop" />
+		  </div>
+		</div>
+		
+		<div class="datacardss">
+			<div >
+			<p style="position: relative;
+			text-align: center;
+			font-size: 40px;" >{{'tab2.dropdown.crop' | translate}}</p>
+			</div>
+			<div class="datacards" (click)="fetchData('Coriander')">
+			  <img src="../../assets/coriander.jpg" alt="Coriander" />
+			  <h4>{{'tab2.dropdown.crop1.1' | translate}}</h4>
+			</div>
+			<div class="datacards">
+			  <img src="../../assets/Mint.jpg" alt="Mint" />
+			  <h4>{{'tab2.dropdown.crop1.4' | translate}}</h4>
+			</div>
+			<div class="datacards">
+			  <img src="../../assets/Spinach.jpg" alt="Spinach" />
+			  <h4>{{'tab2.dropdown.crop1.2' | translate}}</h4>
+			</div>
+			<div class="datacards">
+				<img src="../../assets/Tomato.jpg" alt="Spinach" />
+				<h4>{{'tab2.dropdown.crop1.3' | translate}}</h4>
+			  </div>
+		  </div>		
+		<!-- <div style="display: hidden;">
+		<ion-button (click)="pickImage()">
+			Pick Image
+		  </ion-button>
+		  <input type="file" id="filePicker" (change)="handleFileSelect($event)">
+		</div> -->
+		<h1 class="m-5 text-left" style="color: black;padding: 6px 20px">{{'tab2.goverment' | translate}}</h1>
+		
+		<hr>
+	<ion-slides [options]="slidesOptions">
+		<ion-slide>
+			<ion-card>
+				<ion-card-header>
+				  <ion-card-title>{{'tab2.schemes2.name' | translate}}</ion-card-title>
+				  <br>
+				  <ion-card-subtitle>{{'tab2.schemes2.decription' | translate}}</ion-card-subtitle>
+				</ion-card-header>
+			  
+				<ion-card-content (click)="opensche2(true)">
+					{{'tab2.view' | translate}}		
+					</ion-card-content>
+			  </ion-card>
+		</ion-slide>
+
+		<ion-slide>
+			<ion-card>
+			<ion-card-header>
+			  <ion-card-title>{{'tab2.schemes1.name' | translate}}</ion-card-title>
+			  <br>
+			  <ion-card-subtitle>{{'tab2.schemes1.decription' | translate}}</ion-card-subtitle>
+			</ion-card-header>
+		  
+			<ion-card-content (click)="opensche1(true)">
+				{{'tab2.view' | translate}}		
+				</ion-card-content>
+		  </ion-card>
+		</ion-slide>
+	</ion-slides>
+
+	<ion-modal [isOpen]="sche2">
+		<ng-template>
+		  <ion-header>
+			<ion-toolbar>
+				<ion-buttons slot="start">
+					<a href="https://dbt.mahapocra.gov.in/office/Registration/OthersRegistration.aspx">
+					<ion-button >{{'tab2.apply' | translate}}</ion-button></a>
+				  </ion-buttons>
+			  <ion-buttons slot="end">
+				<ion-button (click)="opensche2(false)">{{'tab2.close' | translate}}</ion-button>
+			  </ion-buttons>
+			</ion-toolbar>
+		  </ion-header>
+		  <ion-content class="ion-padding">
+			<h1>{{'tab2.schemes2.name' | translate}}</h1>
+			<br>
+
+			<h4>{{'tab2.schemes2.obj' | translate}}
+			</h4>
+			<ul>
+				<li>{{'tab2.schemes2.obj1' | translate}}</li>
+				<li>{{'tab2.schemes2.obj2' | translate}}</li>
+			</ul>
+			<br>
+			<h4>{{'tab2.schemes2.elg' | translate}}
+			</h4>
+			<ul>	
+				<li>{{'tab2.schemes2.elg1' | translate}}</li>
+				<li>{{'tab2.schemes2.elg2' | translate}}</li>
+				<li>{{'tab2.schemes2.elg3' | translate}}</li>
+			</ul>
+			<div style="display: flex;">
+				<a href="https://dbt.mahapocra.gov.in/">
+			<p style="padding: 0px 145px;">{{'tab2.view' | translate}}</p></a>
+			</div>	
+		  </ion-content>
+		</ng-template>
+	  </ion-modal>
+
+
+	  <ion-modal [isOpen]="sche1">
+		<ng-template>
+		  <ion-header>
+			<ion-toolbar>
+				<ion-buttons slot="start">
+					<a href="https://dbt.mahapocra.gov.in/office/Registration/OthersRegistration.aspx">
+					<ion-button >{{'tab2.apply' | translate}}</ion-button></a>
+				  </ion-buttons>
+			  <ion-buttons slot="end">
+				<ion-button (click)="opensche1(false)">{{'tab2.close' | translate}}</ion-button>
+			  </ion-buttons>
+			</ion-toolbar>
+		  </ion-header>
+		  <ion-content class="ion-padding">
+			<h1>{{'tab2.schemes1.name' | translate}}</h1>
+			<br>
+
+			<h4>{{'tab2.schemes1.obj' | translate}}
+			</h4>
+			<ul>
+				<li>{{'tab2.schemes1.obj1' | translate}}</li>
+				<li>{{'tab2.schemes1.obj2' | translate}}</li>
+			</ul>
+			<br>
+			<h4>{{'tab2.schemes1.elg' | translate}}
+			</h4>
+			<ul>	
+				<li>{{'tab2.schemes1.elg1' | translate}}</li>
+				<li>{{'tab2.schemes1.elg2' | translate}}</li>
+				<li>{{'tab2.schemes1.elg3' | translate}}</li>
+			</ul>
+			<div style="display: flex;">
+				<a href="https://dbt.mahapocra.gov.in/">
+			<p style="padding: 0px 145px;">{{'tab2.view' | translate}}</p></a>
+			</div>	
+		  </ion-content>
+		</ng-template>
+	  </ion-modal>
+
+	
+
+		<div class="container">
+			<h1 (click)="getblog()" class="m-5 text-left" style="color: black;">{{'tab2.viewblog' | translate}}</h1>
+		
+			<hr>
+			<div class="row">
+			 <div class="col-lg-4 col-md-6 col-sm-12">
+			   <div class="blog_card" *ngFor="let post of blogs">
+			  <div class="blog_card_content">
+				 <h3>{{post.title}}</h3> 
+				 <p>{{post.tag}}</p>
+				 <p>{{ post.date | date}}</p>
+				<a><h6 (click)="postdetails(post)">Read More</h6></a>
+			  </div>
+			</div>
+			  </div>
+			  </div>
+			  </div>
+</div>
+
+	  <ion-modal [isOpen]="isModalOpen" *ngFor="let post of blogs1">
+		<ng-template>
+		  <ion-header>
+			<ion-toolbar>
+			  <ion-buttons slot="end">
+				<ion-button (click)="setOpen(false)">Close</ion-button>
+			  </ion-buttons>
+			</ion-toolbar>
+		  </ion-header>
+		  <ion-content class="ion-padding">
+			<p>{{post.title}}</p>
+			<p>
+				{{post.tag}}
+			  </p>
+			<p>
+			  {{post.description}}
+			</p>
+		  </ion-content>
+		</ng-template>
+	  </ion-modal>
+
+	<div class="data" *ngIf="!form">
+	
+		<ion-header class="ion-no-border" [translucent]="true">
+			<ion-toolbar>
+				<ion-buttons slot="start">
+					<ion-button>
+						<ion-icon name="language-outline" size="large"></ion-icon>
+				<ion-select interface="popover" [(ngModel)]='language' (ionChange)='languageChange()'>
+				  <ion-select-option value='mr'>मराठी</ion-select-option>
+				  <ion-select-option value='en'>English</ion-select-option>
+				</ion-select>
+					</ion-button>
+				</ion-buttons>
+			</ion-toolbar>		
+		</ion-header>
+		<div *ngIf="coriander">
+			<div class="card">
+				<div class="card-content">
+				<div class="bottom">
+					<h2 style="margin-top: 10%;">{{'tab2.coriander.name' | translate}}</h2>
+				</div>
+				</div>
+				<div class="card-bg">
+				<img class="bg-img" src="../../assets/coriander.jpg" alt="crop" style="opacity: 27%;
+				filter: blur(2px);">
+				</div>
+			</div>
+			
+			<div style="background-color: whitesmoke;margin-top: 15%;">
+				<img class="img" src="../../assets/coriander-weather.jpg" alt="Corander Image">
+				<div class="ion-padding">
+					<h1>{{'tab2.weather' | translate}}</h1>
+					<ion-slides [options]="slidesOptions" pager="true">
+						<ion-slide>
+						<ion-card-content class="ion-text-justify">
+						<p>{{'tab2.coriander.weatherdata1' | translate}}</p>
+						</ion-card-content>
+						</ion-slide>			
+						<ion-slide>
+							<ion-card-content class="ion-text-justify">
+						<p>{{'tab2.coriander.weatherdata2' | translate}}</p>
+						</ion-card-content>
+						</ion-slide>
+					</ion-slides>
+				</div>
+				</div>
+			
+			<div style="background-color: whitesmoke; margin-top: 15%;" class="ion-padding">
+				<h1>{{'tab2.soil' | translate}}</h1>
+					<p>{{'tab2.coriander.soildata1' | translate}}</p>
+			</div>
+			<div style="background-color: whitesmoke; margin-top: 15%;" class="ion-padding">
+				<h1>{{'tab2.cultivate' | translate}}</h1>
+					<p>{{'tab2.coriander.cultidata' | translate}}</p>
+					<ion-slides [options]="slidesOptions" pager="true">
+						<ion-slide>
+							<ion-card-content class="ion-text-justify">
+								<h3>{{'tab2.coriander.cultidata1.2' | translate}}</h3>
+								<p>{{'tab2.coriander.cultidata1.data2' | translate}}</p>
+								<p>{{'tab2.coriander.cultidata1.data2-2' | translate}}</p>
+							</ion-card-content>
+						</ion-slide>
+						<ion-slide>
+						<ion-card-content class="ion-text-justify">
+							<h3>{{'tab2.coriander.cultidata1.1' | translate}}</h3>
+							<p>{{'tab2.coriander.cultidata1.data1' | translate}}</p>						
+						</ion-card-content>
+						</ion-slide>			
+						
+					</ion-slides>
+					<p>{{'tab2.coriander.cultidata1.data2-3' | translate}}</p>
+
+			</div>	
+				<div style="background-color: whitesmoke; margin-top: 15%;" class="ion-padding">
+
+					<h1>{{'tab2.fertilizer' | translate}}</h1>
+					<p>{{'tab2.coriander.fertidata1' | translate}}</p>
+					<p>{{'tab2.coriander.fertidata2' | translate}}</p>
+					<p>{{'tab2.coriander.fertidata3' | translate}}</p>
+				</div>
+				<div style="background-color: whitesmoke; margin-top: 15%;" class="ion-padding">
+
+					<h1>{{'tab2.harvest' | translate}}</h1>
+					<p>{{'tab2.coriander.hardata1' | translate}}</p>
+				</div>
+		</div>
+		
+		<div *ngIf="fenugreek">
+			<p>fenugreek</p>
+		</div>
+		<div *ngIf="mango">
+			<p>Mango</p>
+		</div>
+	
+	</div>
+
+</ion-content>

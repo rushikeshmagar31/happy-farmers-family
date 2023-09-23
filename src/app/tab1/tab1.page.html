@@ -1,0 +1,174 @@
+
+<ion-content>
+<ion-refresher slot="fixed" (ionRefresh)="handleRefresh($event)">
+  <ion-refresher-content
+  pullingIcon="chevron-down-circle-outline"
+  refreshingSpinner="circles">
+  </ion-refresher-content>
+</ion-refresher>
+<ion-header class="ion-no-border">
+	<ion-toolbar>
+		<ion-buttons slot="start">
+			<ion-button>
+				<ion-icon name="language-outline" size="large"></ion-icon>
+        <ion-select interface="popover" [(ngModel)]='language' (ionChange)='languageChange()'>
+          <ion-select-option value='mr'>मराठी</ion-select-option>
+          <ion-select-option value='en'>English</ion-select-option>
+        </ion-select>
+			</ion-button>
+		</ion-buttons>
+
+		<ion-buttons slot="end">
+      <ion-icon name="log-out-outline" size="large" (click)="logout()"></ion-icon>
+
+		</ion-buttons>
+	</ion-toolbar>
+</ion-header>
+
+
+	<ion-item lines="none">
+
+		<ion-avatar slot="start">
+			<img src="{{photo}}" style="margin-top: 7%;" referrerpolicy="no-referrer">
+    </ion-avatar>
+			<ion-label>
+				<p></p>
+				<h3>{{'tab1.title' | translate}},&nbsp;{{name}}</h3>
+        <h3>{{userEmail}}</h3>
+
+			</ion-label>
+
+	</ion-item>
+
+
+
+  <div class="slides ion-margin-bottom">
+    <ion-slides [options]="slidesOptions">
+      <ion-slide>
+        <ion-card>
+          <ion-card-header>
+            <div class="main">
+              <img src="https://cdn-icons-png.flaticon.com/512/2476/2476231.png">
+            </div>
+          </ion-card-header>
+          <ion-card-content class="ion-text-justify">
+            <ion-card-title class="ion-margin-bottom">{{'tab1.whyhead' | translate}}</ion-card-title>
+            {{'tab1.why' | translate}}
+
+          </ion-card-content>
+        </ion-card>
+      </ion-slide>
+
+      <ion-slide>
+        <ion-card>
+          <ion-card-header>
+            <div class="main">
+              <img src="https://cdn-icons-png.flaticon.com/512/1043/1043281.png">
+            </div>
+          </ion-card-header>
+          <ion-card-content class="ion-text-justify">
+            <ion-card-title class="ion-margin-bottom">{{'tab1.whathead' | translate}}</ion-card-title>
+            {{'tab1.what' | translate}}
+          </ion-card-content>
+        </ion-card>
+      </ion-slide>
+
+    </ion-slides>
+  </div>
+
+  <div class="container">
+
+    <h2>{{'tab1.features' | translate}}</h2>
+
+    <ion-card class="infocards" style="background-image: url(https://cdn-icons-png.flaticon.com/512/3845/3845731.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 110px;
+    width: 67%;
+    height: 10%;
+    padding: 25px;
+    margin-top: 10%; 
+    background-color:#f1f5f8;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;" (click)="navigate('weather')">
+      <ion-text>
+        <h1 style="margin-top: 5%;
+        margin-left: 5px;
+    font-size: 19px;
+    color: rgb(0, 0, 0);">
+        {{'tab1.fetwet1' | translate}}<br>{{'tab1.fetwet2' | translate}}</h1>
+      </ion-text>
+    </ion-card>
+
+      <ion-card class="infocards" style="background-image: url(https://cdn-icons-png.flaticon.com/512/1993/1993795.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 110px;
+    width: 67%;
+    height: 10%;
+    padding: 25px;
+    margin-top: 10%;
+    left: 30%;
+    background-color: #f1f5f8;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;" (click)="navigate('market')">
+      <ion-text>
+        <h1 style="margin-top: 5%;
+        margin-left: 5px;
+    font-size: 19px;
+    color: black;">
+        {{'tab1.fetmar1' | translate}}<br>{{'tab1.fetmar2' | translate}}</h1>
+      </ion-text>
+    </ion-card>
+
+      <ion-card class="infocards" style="background-image: url(https://cdn-icons-png.flaticon.com/512/2826/2826368.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 110px;
+    width: 67%;
+    height: 10%;
+    padding: 25px;
+    margin-top: 10%;
+    background-color: #f1f5f8;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;" (click)="navigate('crop')">
+      <ion-text>
+        <h1 style="margin-top: 5%;
+        margin-left: 5px;
+    font-size: 19px;
+    color: black;">
+        {{'tab1.fetcrp1' | translate}}<br>{{'tab1.fetcrp2' | translate}}</h1>
+      </ion-text>
+      </ion-card>
+
+      <ion-card class="infocards" style="background-image: url(https://cdn-icons-png.flaticon.com/512/10273/10273200.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 110px;
+    width: 67%;
+    height: 10%;
+    padding: 25px;
+    margin-top: 10%;
+    left: 30%;
+
+    background-color: #f1f5f8;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;">
+      <ion-text>
+        <h1 style="margin-top: 5%;
+        margin-left: 5px;
+    font-size: 19px;
+    color: black;">
+        {{'tab1.fetlan1' | translate}}<br>{{'tab1.fetlan2' | translate}}</h1>
+      </ion-text>
+    </ion-card>
+    <br>
+    <hr style="border-width: 1px;">
+    <div style="text-align: center;margin: -30px;">
+      <br>
+      <h4>Built with&nbsp;<ion-icon name="logo-ionic"></ion-icon> & ❤️ by</h4>
+      <p>Rushikesh,&nbsp;Sanika,&nbsp;Rutuja,&nbsp;Krushnat,&nbsp;Samarth</p>
+      <br>
+    </div>
+   
+
+
+
+    
+

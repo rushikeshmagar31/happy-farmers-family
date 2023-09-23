@@ -1,0 +1,11 @@
+{
+  "name": "farmers-app-project",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    
+    "cordova": {}
+  },
+  "type": "angular"
+}

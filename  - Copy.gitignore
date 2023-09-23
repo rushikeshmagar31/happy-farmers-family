@@ -1,0 +1,5 @@
+/src/environments
+/.vscode
+/.angular
+/node_modules
+/platforms

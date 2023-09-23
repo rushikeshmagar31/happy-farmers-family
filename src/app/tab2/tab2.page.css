@@ -1,0 +1,33 @@
+.welcome-card ion-img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+ion-card-header {
+  padding: 0 0 10px 0;
+  font-weight: bold;
+  position: initial;
+}
+
+ion-col {
+  padding: 5px 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ion-card-content {
+  padding: 5px 0 0 0;
+}
+
+ion-card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(1, 12, 10, 0.6);
+}
+/*# sourceMappingURL=tab2.page.css.map */
