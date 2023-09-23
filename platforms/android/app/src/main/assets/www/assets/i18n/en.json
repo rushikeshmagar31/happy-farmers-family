@@ -1,0 +1,189 @@
+{
+  "login":{
+    "login":"Login With Google",
+    "info1":"One Stop Solution for all ",
+    "info2":"the daily needs of farmers",
+    "trans":"Available languages English, मराठी"
+
+  }, 
+  "tab1": {
+      
+    
+    "title":"Hello",   
+    "logout":"Log Out",
+    "tabName": "Crop Information",
+    "whyhead":"Why this App ???",
+    "about":"About App",
+    "why":"The one-stop solution for farmers seeking real-time weather updates, daily market rates, and crucial crop information in their local language. With this app, farmers can stay informed and make informed decisions, helping them increase productivity and optimize their crop yield.",
+    "whathead":"What We Provide !!!",
+    "what":"The Farmer's App provides up-to-date weather forecasts for your specific region, allowing you to plan and adjust your farming activities accordingly.The app provides daily market rates for different crops",
+    "features":"Features of App",
+    "fetwet1":"Weather",
+    "fetwet2":"Updates",
+    "fetmar1":"Market",
+    "fetmar2":"Rate",
+    "fetcrp1":"Crop",
+    "fetcrp2":"Information",
+    "fetlan1":"Local",
+    "fetlan2":"Language"
+
+
+  },
+
+  "tab2":{
+    "read":"Read More",
+    "viewblog":"View Posts",
+    "goverment":"Government Schemes",
+    "apply":"Apply Here",
+      "close":"Close",
+      "view":"View More",
+      "schemes1":{
+        "name":"Nanaji Deshmukh Krishi Sanjivani Yojana",
+        "decription":"The Nanaji Deshmukh Krishi Sanjeevani Yojana has recently been launched by the Maharashtra government for farmers.",
+        "obj":"The Objectives of Nanaji Deshmukh Krishi Sanjivani Yojana",
+        "obj1":"Considering the problems of farmers and agriculture in Maharashtra, the Government of Maharashtra has launched this scheme in 2022.",
+        "obj2":"Conversion of drought-prone areas or drought areas into drought-free regions is the main objective of this scheme. So that farmers can do farming easily",
+        "elg":"Eligibility for Nanaji Deshmukh Krishi Sanjivani Yojna",
+        "elg1":"Farmers who are domiciles in Maharashtra are eligible to apply under this scheme.",
+        "elg2":"Only the small marginal and middle-class farmers are eligible.",
+        "elg3":"The farmers native to the drought-prone area of agriculture in Maharashtra can apply."
+      },
+      "schemes2":{
+        "name":"Babasaheb Ambedkar Krishi Swavalamban Yojana",
+        "decription":"The Scheduled Caste Upyojana (Special Component Scheme) was implemented to increase the income of the Scheduled Caste neo-Buddhist farmers, and raise their standard of living. It was launched on 27 April 2016.",
+        "obj":"Main Points of Babasaheb Ambedkar Krishi Swavalamban Yojana",
+        "obj1":"It has been decided to implement Babasaheb Ambedkar Krishi Swavalamban Yojana as one scheme for agriculture in Maharashtra state instead of separately.",
+        "obj2":"Accordingly, from the point of view of maintaining the moisture in the soil, the current 'special component scheme ', the Government has approved the implementation of the 'Dr. Babasaheb Ambedkar Krishi Swavalamban Yojana'.",
+        "elg":"Eligibility for Babasaheb Ambedkar Krishi Swavalamban Yojana",
+        "elg1":"The Beneficiary should be a Scheduled Caste, Neo-Buddhist farmer.",
+        "elg2":"The Beneficiary must have a bank account, which must be linked to the Aadhaar card.",
+        "elg3":"Scheduled Caste, Neo-Buddhist farmers who are not below the poverty line and whose annual income does not exceed one and a half lakh rupees will be eligible for the benefit.",
+        "elg4":"For farmers included in the Below Poverty Line (BPL) list, there will be no requirement for an annual income limit."
+      },
+    "tabName1":"Crops",
+    "tabName2":"Information",
+    "weather":"Weather Conditions",
+    "cultivate":"Cultivation",
+    "soil":"Soil",
+    "harvest":"Harvest",
+    "fertilizer":"Pesticides and Fertilizer Management",
+    "purpose":"About",
+    "purpose1":"A user-friendly interface that allows farmers to access information about their crops with ease.",
+    "purpose2":"Farmers can search for specific crops and receive detailed information on how to cultivate them, including planting times, fertilization schedules, and watering requirements.",
+    "coriander":{
+      "name":"Coriander",      
+      "weatherdata1":"According to botanical science, mainly winter (Rabi) and rainy (Kharip) seasons for coriander cultivation are considered suitable and complementary for coriander growth. So, in this season, in this month, coriander should be planted.Although the yield of coriander is less in summer, the demand for coriander is huge in this month. Due to less production in summer and higher demand, this crop is very profitable and earns good profit. Hence, many farmers cultivate coriander in summer as well.",
+      "weatherdata2":"We can cultivate coriander in any climate. But in order to get proper and very good yield, coriander should not be cultivated even in rainy season or even in summer. If there is too much heat or too much rain, the growth of coriander is not as desired, so you can plan and plant coriander by taking the risk of excessive rain and hot heat. Coriander needs a lot of water in the summer and should be planned and you can also make a shade net and make sure that water is available in the summer.",
+      "soildata1":"Medium depth land is suitable for coriander cultivation. Coriander produces abundant and vigorous crops and profits in medium and firm soils. Good yield of cilantro can also be obtained in light or less firm soil if organic fertilizers are present in the soil. According to the average size, 5 to 6 tons per acre is obtained in rainy season and winter and 3 to 4 tons per acre in summer season. No matter what month coriander is planted, proper and regular watering is very important",
+      "cultidata":"For planting coriander, the land should be plowed and plowed to make a good humus. 6 to 8 tones of well-rotted cow dung per acre should be added to the soil, this cow dung works well as an organic fertilizer. After that, a flat surface of about 3x2 meters size should be made on the ground. Now in this ready steam we can plant coriander in 2 ways one is planting coriander by throwing seeds and another is planting coriander by planting seeds. We can cultivate any of these two in any way we find convenient",
+      "cultidata1":{
+        "1":"Planting by throwing seeds",
+        "data1":"Care should be taken to ensure that the seeds fall evenly while sowing the seeds. If it is to be planted in summer, before sowing i.e. before planting, steam should be soaked and then the coriander should be planted after throwing the seeds.",
+        "2":"Sow seeds by creating steam",
+        "data2":"If you don't want to plant by throwing seeds, then you should make rows with weeds at a distance of 15 cm in the steam and you can also sow seeds in it, but before that if you want to plant coriander in summer, then before sowing, soak the steam and after steaming, put seeds in it, i.e. plant and sow.",
+        "data2-2":"25 to 35 kg of seed per acre is required for planting coriander. Before planting, the seeds i.e. coriander should be rubbed a little and the coriander seeds should be soaked and then wrapped in sackcloth. Due to that, germination takes place in 8 to 10 days and the production of coriander also increases. Cracking the coriander seed gives it early budding and early ripening and early harvesting.",
+        "data2-3":"Coriander also needs proper care after planting. If the cilantro plant gets weeded, we can face a lot of losses, so water and account management also helps in good growth. Coriander can be cultivated in any climate but if the water source is good then summer cultivation of coriander gives high yield and good profit.Choosing the right variety of coriander is also important. Local and improved varieties should preferably be selected. Varieties V1, V2 as well as D91, Ko1, Lam CS, Jalgaon Dhana, Y Dhana are famous for coriander cultivation."      
+      },
+      "fertidata1":"Before planting, 5 to 7 tons of well-rotted cow dung should be properly applied to the land in which coriander is to be planted. After sprouting of coriander, he should do two sprayings of 800 grams of urea mixed with 100 liters of water after 25 days after applying 35 to 40 kg of Natra fertilizer",
+      "fertidata2":"By doing this, the coriander grows properly and produces a good crop of coriander and there is no chance of disease. Since coriander is a young crop, it should be watered 7 to 9 times in stages during summer so that the crop starts growing more vigorously.",
+      "fertidata3":"Coriander crop is not affected by diseases and pests if proper amount of sprays and insecticides are applied. However, sometimes the disease may occur, so it can be prevented by spraying the appropriate medicine to control this disease. Application of water-soluble sulfur should be done as well as spraying of Bhuri control like Lam C S-6. Thus, Coriander spray should be used to control the disease.",
+      "hardata1":"Now the last step is harvesting. So coriander harvesting has to be done 30 to 35 days after sowing. At this time the coriander was about 15 to 20 cm tall. Coriander harvesting can also be done in two ways just like sowing. One is uprooting and the other is cutting. Coriander starts flowering after two months, so it should be harvested before flowering."
+      
+    
+    },
+    "dropdown":{
+      "enter":"Enter Details",
+      "1":"Select Type",
+      "2-1":"Crop Type",
+      "2-2":"Fruit Type",
+      "crop":"Crops",
+      "fruit":"Fruit",
+      "crop1":{
+        "1":"Coriander",
+        "2":"Spinach",
+        "3":"Tomato",
+        "4":"Mint"
+
+
+      },
+      "fruit1":{
+        "1":"Mango"
+      }
+
+
+    }
+    
+  },
+  "tab3":{
+    "tabName":"Weather Updates",
+    "searchtxt":"Enter City Name",
+    "cardhead":"Local Time",
+    "sunrise":"Sunrise",
+    "sunset":"Sunset",
+    "humid":"Humidity",
+    "speed":"Wind",
+    "max":"Maximum",
+    "min":"Minimum",
+    "rain":"Chances of Rain",
+    "pre":"Precipitation"
+
+  },
+
+  "tab4":{
+    "title":"Market Rate",
+    "title2": "Enter Details",
+    "placeholder":{
+      "state":"Select State",
+      "district":"Select District",
+      "commodity":"Select Commodity"
+    },
+    "state":"Maharashtra",
+    "district":{
+      "1":"Ahmednagar",
+      "2":"Akola",
+      "3":"Amravati",
+      "4":"Aurangabad",
+      "5":"Beed",
+      "6":"Bhandara",
+      "7":"Buldhana",
+      "8":"Chandrapur",
+      "9":"Dhule",
+      "10":"Gadchiroli",
+      "11":"Gondia",
+      "12":"Hingoli",
+      "13":"Jalgaon",
+      "14":"Jalna",
+      "15":"Kolhapur",
+      "16":"Latur",
+      "17":"Mumbai City",
+      "18":"Mumbai Suburban",
+      "19":"Nagpur",
+      "20":"Nanded",
+      "21":"Nandurbar",
+      "22":"Nashik",
+      "23":"Osmanabad",
+      "24":"Palghar",
+      "25":"Parbhani",
+      "26":"Pune",
+      "27":"Raigad",
+      "28":"Ratnagiri",
+      "29":"Sangli",
+      "30":"Satara",
+      "31":"Sindhudurg",
+      "32":"Solapur",
+      "33":"Thane",
+      "34":"Wardha",
+      "35":"Washim",
+      "36":"Yavatmal"
+
+    },
+    "commodity":{
+      "1":"Onion",
+      "2":"Wheat",
+      "3":"Potato"
+    },
+    "submit":"Submit"
+
+  }
+
+}
